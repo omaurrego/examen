@@ -1,0 +1,14 @@
+1. Que diferencia hay entre un igual ( = ) y un doble ( == )
+R=      = comparar
+	== (igual)
+2. byte
+short
+int
+long
+float
+double
+boolean
+char
+
+3.Oracle
+4.App, Comunicación, entretenimiento, sociales
